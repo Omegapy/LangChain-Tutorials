@@ -1,0 +1,6 @@
+# pip install langchain
+langchain
+# pip install openai
+openai
+# pip3 install pinecone-client
+pinecone-client
