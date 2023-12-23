@@ -30,9 +30,30 @@ Instagram: https://www.instagram.com/alexomegapy/
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-AI Assistant (AI Assitant.ipynb)
+#### AI Assistant : LangChain Intro. Tutorial (AI Assitant.ipynb)
 -----------------------------------------------------------------------------------------------------------------------------
 AI Assistant is a tutorial in Phyton on how to use LangChain, Large Language Models - OpenAi, and Pinecone (vector
 database) base on Rabbitmetrics' tutorial.
+- Basic Query LLM
+- Chat Model
+- Prompts basic LLM
+- Chains
+- Example of Simple Sequential Chaining
+- Chucking Files
+- Vector embedding
+- Vector embedding using Pinecone and LangChain
+- Query using vectors
+- Agent: Code interpreter Python language
 
 Credit: Rabbitmetrics https://www.youtube.com/watch?v=aywZrzNaKjs
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+#### Sequential Chain Demo. : LangChain Intro. Tutorial Tutorial (Sequential Chain Demo.ipynb)
+-----------------------------------------------------------------------------------------------------------------------------
+Sequential Chain Demo. is a tutorial in Phyton on how to use LangChain Sequential Chain based on Data Science Garage's Tutorial
+- Templates - Prompts - Chains
+- Build a Sequential Chain
+- Load Local File: Query it using Sequential Chain
+
+Credit: https://www.youtube.com/watch?v=J7n9e0eSoKg
