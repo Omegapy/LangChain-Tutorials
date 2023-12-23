@@ -2,3 +2,6 @@
 .env
 # Jypiter Files
 .ipynb_checkpoints/
+# Pycharm files
+.idea/
+.venv/

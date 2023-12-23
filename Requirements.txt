@@ -1,6 +1,12 @@
 # pip install langchain
 langchain
+# pip install langchain_experimental
+langchain_experimental
 # pip install openai
 openai
 # pip3 install pinecone-client
 pinecone-client
+# pip install python-dotenv
+python-dotenv
+# pip install tiktoken  for embeddings.embed_documents()
+tiktoken
